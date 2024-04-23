@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ling Li is a fully funded student of PhD in Administration-Management, Strategy and Entrepreneurship at [HEC Montréal-Université de Montréal](https://www.hec.ca/en/programs/phd/phd-management-strategy-and-entrepreneurship/index.html) & [McGill University](https://www.mcgill.ca/gradapplicants/program/management-phd), Canada. My research interests are strategy, technology innovation (in Quantum Technology and AI), and IB (International Business), and my expected graduation year is 2028.
+Ling Li is a fully funded student of PhD in Administration- Management, Strategy and Entrepreneurship at [HEC Montréal-Université de Montréal](https://www.hec.ca/en/programs/phd/phd-management-strategy-and-entrepreneurship/index.html) & [McGill University](https://www.mcgill.ca/gradapplicants/program/management-phd), Canada. My research interests are strategy, technology innovation (in Quantum Technology and AI), and IB (International Business), and my expected graduation year is 2028.
 Please find my CV here:[Ling Li's Curriculum Vitae]()
 
 A data-driven personal website
