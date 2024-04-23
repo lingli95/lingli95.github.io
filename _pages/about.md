@@ -12,7 +12,7 @@ Ling Li is a fully funded student of PhD in Administration- Management, Strategy
 Please find my CV here:[Ling Li's Curriculum Vitae](https://github.com/lingli95/lingli95.github.io/blob/master/assets/CV_Ling%20Li_23.4.2023.docx)
 
 Others About Me
-======
+------
 As you know, I am a researcher. However, I am also a Gen-Z with multiple hobbies and interests. 
 I welcome you to contact me in academic communications and discussions on ACGN, violin, city walks and travelling. Please do not hesitate to reach out:)!
 
